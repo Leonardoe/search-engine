@@ -1,0 +1,12 @@
+src->1
+center->1
+div->2
+width->1
+map_section_4->1
+img->1
+html->2
+jpg->1
+align->1
+1171->1
+height->1
+600->1

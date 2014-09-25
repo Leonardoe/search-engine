@@ -1,0 +1,37 @@
+K = 3
+
+Clustering time: 15231 with 9 Iterations.
+Total results for "grades " : 384
+
+Clustering time: 26524 with 14 Iterations.
+Total results for "admission " : 603
+
+Clustering time: 30980 with 9 Iterations.
+Total results for "hall " : 1320
+
+Clustering time: 67292 with 13 Iterations.
+Total results for "admission hall " : 1849
+
+Clustering time: 50248 with 10 Iterations.
+Total results for "application " : 1967
+
+
+Clustering time: 56199 with 9 Iterations.
+Total results for "process " : 2353
+
+Clustering time: 42620 with 5 Iterations.
+Total results for "international " : 3620
+**got 2 clusters.
+
+Clustering time: 263996 with 25 Iterations.
+Total results for "scholarship graduate funding eligibility " : 4381
+
+====
+Clustering time: 27368 with 8 Iterations.
+Total results for "medic care " : 854
+
+Clustering time: 63293 with 15 Iterations.
+Total results for "employee benefits " : 1731
+
+Clustering time: 58445 with 20 Iterations.
+Total results for "admissions " : 1746

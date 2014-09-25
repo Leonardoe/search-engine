@@ -1,0 +1,10 @@
+url->1
+360->1
+uga->1
+equiv->1
+content->1
+refresh->1
+www.vpsa.asu.edu->1
+http->2
+0->1
+meta->1
