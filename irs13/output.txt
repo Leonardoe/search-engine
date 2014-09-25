@@ -1,6 +1,0 @@
-Rank: 1 Document ID: 14191 :  URL: \www.asu.edu/it/tempe/orient/2005/security.htm
-Rank: 2 Document ID: 14197 :  URL: \www.asu.edu/it/tempe/orient/2005/stf_security.htm
-Rank: 3 Document ID: 14184 :  URL: \www.asu.edu/it/tempe/orient/2005/fac_security.htm
-Rank: 4 Document ID: 14092 :  URL: \www.asu.edu/it/security/s101/index.html
-Rank: 5 Document ID: 22990 :  URL: \www.asu.edu/security/s101/index.html
-Rank: 6 Document ID: 14371 :  URL: \www.asu.edu/languages/fre/ComtesseDeSegur/ecriture_et_femmes.html
